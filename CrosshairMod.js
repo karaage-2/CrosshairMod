@@ -44,7 +44,6 @@ let shape = "";
         window.mod.loadGui();
             updateCrosshair(window.mod.modMenu.crosshairSettings.shape);
             updateCrosshair(window.mod.modMenu.crosshairSettings.color);
-            console.log("hi");
     });
 
     const y = document.createElement("div");
